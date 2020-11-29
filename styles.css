@@ -1,16 +1,17 @@
 body {
-	background-color: silver;
+	background-color: #f1f3f8;
 	}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 10%;
+}
 	h1 {
-		color: #393b44;
+		color: #66bfbf;
 		}
 	h3{
-		color: #393b44;
+		color: #66bfbf;
 	}
-	hr{
-		board-style: none;
-		board-top-style:dotted;
-		board-color: grey;
-		board-width:5px;
-		width:50%
-	}
+	
